@@ -1,0 +1,17 @@
+@font-face {
+  font-family: inter;
+  src: url("../assets/fonts/Inter-Black.ttf");
+}
+
+@font-face {
+  font-family: lustria;
+  src: url("../assets/fonts/Lustria-Regular.ttf");
+}
+
+.titleFont {
+  font-family: 'inter'
+}
+
+.textFont {
+  font-family: 'lustria'
+}
